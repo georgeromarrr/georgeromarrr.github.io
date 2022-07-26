@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/araktek-ecommerce/static/css/main.ea1c2a3e.css",
-    "main.js": "/araktek-ecommerce/static/js/main.641caf4c.js",
-    "static/media/promo1.1.jpg": "/araktek-ecommerce/static/media/promo1.1.7903775489f65064d3d6.jpg",
-    "static/media/promo1.2.jpg": "/araktek-ecommerce/static/media/promo1.2.d7ddbb64f3f9e9cc412d.jpg",
-    "static/media/bootstrap-icons.woff?": "/araktek-ecommerce/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
-    "static/media/promo1.5.jpg": "/araktek-ecommerce/static/media/promo1.5.e07029e7034551a03b89.jpg",
-    "static/media/bootstrap-icons.woff2?": "/araktek-ecommerce/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
-    "static/media/promo1.4.jpg": "/araktek-ecommerce/static/media/promo1.4.b438e16fdba1764c0f26.jpg",
-    "static/media/promo2.4.jpg": "/araktek-ecommerce/static/media/promo2.4.bdfad52787755cbe04e4.jpg",
-    "static/media/promo2.1.jpg": "/araktek-ecommerce/static/media/promo2.1.564e053765f884603095.jpg",
-    "static/media/promo2.3.jpg": "/araktek-ecommerce/static/media/promo2.3.433ea65e29cd1e976ccd.jpg",
-    "static/media/promo1.3.jpeg": "/araktek-ecommerce/static/media/promo1.3.7138e85b94333e090bf2.jpeg",
-    "static/media/promo2.2.jpg": "/araktek-ecommerce/static/media/promo2.2.996958b6e78d37824650.jpg",
-    "static/media/slick.svg": "/araktek-ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/araktek-ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/araktek-ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/araktek-ecommerce/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/araktek-ecommerce/index.html",
-    "main.ea1c2a3e.css.map": "/araktek-ecommerce/static/css/main.ea1c2a3e.css.map",
-    "main.641caf4c.js.map": "/araktek-ecommerce/static/js/main.641caf4c.js.map"
+    "main.css": "/aracholo-group/static/css/main.90d5e389.css",
+    "main.js": "/aracholo-group/static/js/main.a2a2bb45.js",
+    "static/media/promo1.1.jpg": "/aracholo-group/static/media/promo1.1.7903775489f65064d3d6.jpg",
+    "static/media/promo1.2.jpg": "/aracholo-group/static/media/promo1.2.d7ddbb64f3f9e9cc412d.jpg",
+    "static/media/bootstrap-icons.woff?": "/aracholo-group/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/promo1.5.jpg": "/aracholo-group/static/media/promo1.5.e07029e7034551a03b89.jpg",
+    "static/media/bootstrap-icons.woff2?": "/aracholo-group/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/promo1.4.jpg": "/aracholo-group/static/media/promo1.4.b438e16fdba1764c0f26.jpg",
+    "static/media/promo2.4.jpg": "/aracholo-group/static/media/promo2.4.bdfad52787755cbe04e4.jpg",
+    "static/media/promo2.1.jpg": "/aracholo-group/static/media/promo2.1.564e053765f884603095.jpg",
+    "static/media/promo2.3.jpg": "/aracholo-group/static/media/promo2.3.433ea65e29cd1e976ccd.jpg",
+    "static/media/promo1.3.jpeg": "/aracholo-group/static/media/promo1.3.7138e85b94333e090bf2.jpeg",
+    "static/media/promo2.2.jpg": "/aracholo-group/static/media/promo2.2.996958b6e78d37824650.jpg",
+    "static/media/slick.svg": "/aracholo-group/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/aracholo-group/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/aracholo-group/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/aracholo-group/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/aracholo-group/index.html",
+    "main.90d5e389.css.map": "/aracholo-group/static/css/main.90d5e389.css.map",
+    "main.a2a2bb45.js.map": "/aracholo-group/static/js/main.a2a2bb45.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea1c2a3e.css",
-    "static/js/main.641caf4c.js"
+    "static/css/main.90d5e389.css",
+    "static/js/main.a2a2bb45.js"
   ]
 }
